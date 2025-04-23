@@ -30,7 +30,10 @@ export function Login() {
     };
 
     axios
-      .post("http://localhost:3001/auth/login", userDetails)
+      .post(
+        "https://authenticationmernstack-backend.onrender.com/auth/login",
+        userDetails
+      )
       .then((response) => {
         console.log(response);
         console.log(response.data);
