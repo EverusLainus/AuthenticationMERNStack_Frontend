@@ -38,6 +38,7 @@ A modern full-stack authentication application built with **React**, **Node.js**
 
 - **Frontend (Netlify)**: [https://authentication-mernstack.netlify.app](https://authentication-mernstack.netlify.app)
 - **Backend (Render)**: [https://authenticationmernstack-backend.onrender.com](https://authenticationmernstack-backend.onrender.com)
+- **Backend Repo**: [https://github.com/EverusLainus/AuthenticationMERNStack_Backend](https://github.com/EverusLainus/AuthenticationMERNStack_Backend)
 
 ---
 
