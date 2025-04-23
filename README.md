@@ -36,8 +36,8 @@ A modern full-stack authentication application built with **React**, **Node.js**
 
 ## Live Links
 
-- **Frontend (Netlify)**: [https://authenticationmernstack-backend.onrender.com](https://authenticationmernstack-backend.onrender.com)
-- **Backend (Render)**: [https://authenticationmernstack-backend.onrender.com](hhttps://authenticationmernstack-backend.onrender.com)
+- **Frontend (Netlify)**: [https://authentication-mernstack.netlify.app](https://authentication-mernstack.netlify.app)
+- **Backend (Render)**: [https://authenticationmernstack-backend.onrender.com](https://authenticationmernstack-backend.onrender.com)
 
 ---
 
@@ -47,9 +47,9 @@ A modern full-stack authentication application built with **React**, **Node.js**
 - [Insomnia](https://insomnia.rest/) – API testing
 - [MongoDB Compass](https://www.mongodb.com/products/compass) – MongoDB GUI client
 
-## ⚙️ Local Setup Instructions
+## Local Setup Instructions
 
-### 🔐 Frontend
+### Frontend
 
 ```bash
 git clone https://github.com/EverusLainus/AuthenticationMERNStack_Backend.git
